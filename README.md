@@ -49,7 +49,7 @@ $$F_y = F \sin{\theta}$$
 
 In order to get the total force of the vector now all the other vectors need to be added up. This can be done by adding the x and y components of each force vector seperately. The resulting vector is the total force acting on the object due to the gravitational attraction of all the larger objects.
 
-To calculate the direction and angle of the total force vector trigonometry can be used. With it we calculat ethe angle between the x-axis and the total force vector and this will get us the direction that the smaller object will be pulled towards.
+To calculate the direction and angle of the total force vector trigonometry can be used. With it we calculate the angle between the x-axis and the total force vector and this will get us the direction that the smaller object will be pulled towards.
 
 Now depending on angle and total force the velocity and position of the pulled object needs to be updated. For that a numerical integration method, such as the Euler method or the Verlet method can be used.
 
