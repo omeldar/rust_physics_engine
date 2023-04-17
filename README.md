@@ -2,11 +2,12 @@
 
 Recently I had the idea of creating some simulations and needed some basic gravity rules for that reason. In order to cleanly seperate that I will here implement the gravity physics and use them later in the simulation project. In future if I come to add some other physics I will add them here.
 
-## Current Progress
+## Roadmap
 
 - [x] Define physics equations for gravitational force
 - [x] (current) Define the objects to be simulated and their properties
 - [ ] Create some basic simulation steps and define step length
+- [ ] Visualize simulation with some library
 - [ ] In each time step calculate forces acting on each object
 - [ ] In each step update the positions and velocities
 - [ ] Add collision detection
