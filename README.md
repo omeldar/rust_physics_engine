@@ -5,7 +5,7 @@ Recently I had the idea of creating some simulations and needed some basic gravi
 ## Current Progress
 
 - [x] Define physics equations for gravitational force
-- [x] Define the objects to be simulated and their properties
+- [x] (current) Define the objects to be simulated and their properties
 - [ ] Create some basic simulation steps and define step length
 - [ ] In each time step calculate forces acting on each object
 - [ ] In each step update the positions and velocities
