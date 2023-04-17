@@ -20,12 +20,12 @@ Recently I had the idea of creating some simulations and needed some basic gravi
 
 The gravitational force between two objects can be calculated using the following equation:
 
-$ F = G \frac{m_1 \cdot m_2}{d^2} $
+$$ F = G \frac{m_1 \cdot m_2}{d^2} $$
 
-For example, if you want to calculate the gravitational force between two objects with masses of 10 kg and 20 kg, separated by a distance of 5 meters, the equation would look like this: $ F = 6.6743 \times 10^{-11} \frac{10 \times 20}{5^2} $
+For example, if you want to calculate the gravitational force between two objects with masses of 10 kg and 20 kg, separated by a distance of 5 meters, the equation would look like this: $$ F = 6.6743 \times 10^{-11} \frac{10 \times 20}{5^2} $$
 
 - F is the gravitational force between the two objects, measured in Newtons (N).
-- G is $ 6.6743 × 10^{-11} $ and is the gravitational constant, which is a fundamental constant of nature that determines the strength of the gravitational force.
+- G is $$ 6.6743 × 10^{-11} $$ and is the gravitational constant, which is a fundamental constant of nature that determines the strength of the gravitational force.
 - m1 is the mass of the first object.
 - m2 is the mass of the second object.
 - r is the distance between the two objects.
@@ -34,13 +34,13 @@ For example, if you want to calculate the gravitational force between two object
 
 First all the single gravitational forces between the objects need to be calculated.
 
-$F = G \frac{m_1 m_2}{d^2}$
+$$F = G \frac{m_1 m_2}{d^2}$$
 
 Then the direction and magnitude of the gravitational force vector between the objects needs to be calculated.
 
-$F_x = F \cos{\theta}$
+$$F_x = F \cos{\theta}$$
 
-$F_y = F \sin{\theta}$
+$$F_y = F \sin{\theta}$$
 
 - F is the magnitude of the gravitational force between the two objects.
 - θ is the angle between the x-axis and the line connecting the two objects. θ can be calculated by using trigonometry.
