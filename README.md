@@ -11,8 +11,8 @@ Recently I had the idea of creating some simulations and needed some basic gravi
 - [ ] In each time step calculate forces acting on each object
 - [ ] In each step update the positions and velocities
 - [ ] Add collision detection
-- [ ] Add contraints such as preventing objects collision and keep objects in certain area
-- [ ] Optimization and potentially add multithreading
+- [ ] Add contraints such as preventing object clipping and keep objects in certain area
+- [ ] Optimize code and potentially add multithreading
 - [ ] Test and validate simulation with applied physics engine
 
 ## Physics
