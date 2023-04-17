@@ -8,11 +8,11 @@ Recently I had the idea of creating some simulations and needed some basic gravi
 - [x] (current) Define the objects to be simulated and their properties
 - [ ] Create some basic simulation steps and define step length
 - [ ] Visualize simulation with some library
-- [ ] In each time step calculate forces acting on each object
-- [ ] In each step update the positions and velocities
-- [ ] Add collision detection
-- [ ] Add contraints such as preventing object clipping and keep objects in certain area
-- [ ] Optimize code and potentially add multithreading
+- [ ] In each simulation step calculate forces acting on each object
+- [ ] In each simulation step update the positions and velocities
+- [ ] Add collision detection and define action on collision
+- [ ] Add contraints such as preventing object clipping and keep objects in certain area (the simulation field)
+- [ ] Optimize code and potentially add multithreading to boost performance
 - [ ] Test and validate simulation with applied physics engine
 
 ## Physics
